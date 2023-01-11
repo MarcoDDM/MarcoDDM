@@ -4,7 +4,7 @@
   <img src="soyMarco.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Marco Almada</b></h3>
-
+  <hr>
 </div>
 
 <div>Hello! I'm <b>Marco Almada</b>, a software developer with experience in MERN stack. I have experience working in web development and marketing and am passionate about using technology to solve problems and build innovative solutions.<br><br>
@@ -18,4 +18,5 @@ You can also find me on <a href="https://linkedin.com/in/marcoalmadaar">Linkedin
 I am currently studying on @microverse.
 
 Thank you for visiting my profile!
+  <hr>
 </div>
