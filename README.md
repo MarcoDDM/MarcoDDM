@@ -15,7 +15,7 @@ I am always looking for new opportunities to learn and grow, so feel free to rea
 
 You can also find me on <a href="https://linkedin.com/in/marcoalmadaar">Linkedin</a> if you want to connect or learn more about me.
   
-I am currently studying on @microverse.
+I am currently studying on @microverse to become a fullstack software developer.
 
 Thank you for visiting my profile!
   <hr>
