@@ -11,7 +11,8 @@
 
 <div>My portfolio showcases a range of projects that I've worked on, including paid assignments and others from a current bootcamp program. Each pinned project has a detailed description that highlights the project's key features and the technologies utilized to build it.</div><br>
 
-<div>I am always eager to learn and grow, and I'm open to freelance or job opportunities. So, if you have a project that requires my skills, feel free to connect with me. You can also find me on [Linkedin](https://linkedin.com/in/marcoalmadaar) to know more about me.</div><br>
+I am always eager to learn and grow, and I'm open to freelance or job opportunities. So, if you have a project that requires my skills, feel free to connect with me. You can also find me on [Linkedin](https://www.linkedin.com/in/marcoalmadaar "Marco Almadaar's LinkedIn Profile")
+ to know more about me.</div><br>
 
 <div>Currently, I'm studying at @microverse to develop my Full-Stack Software Development skills further.</div><br>
 
