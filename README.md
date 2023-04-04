@@ -7,19 +7,21 @@
   <hr>
 </div>
 
-<div>Hello! I'm <b>Marco Almada</b>, a software developer with experience in MERN stack. I have experience working in web development and marketing and am passionate about using technology to solve problems and build innovative solutions.<br><br>
+<div>Hello!  I'm <b>Marco Almada</b>, a Full-Stack Software Developer with expertise in the MERN stack. I'm passionate about leveraging technology to create innovative solutions to solve problems.</div><br>
 
-On my profile, you'll find a variety of projects I've worked on, including some paid projects and others from a bootcamp where I am currently on. I hope that you'll find them interesting and that they give you a sense of the kind of work I do.
+<div>My portfolio showcases a range of projects that I've worked on, including paid assignments and others from a current bootcamp program. Each pinned project has a detailed description that highlights the project's key features and the technologies utilized to build it.</div><br>
 
-I am always looking for new opportunities to learn and grow, so feel free to reach out to me if you're working on a project that you think I might be able to help with. I am open for freelance or job opportunities.
+<div>I am always eager to learn and grow, and I'm open to freelance or job opportunities. So, if you have a project that requires my skills, feel free to connect with me. You can also find me on [Linkedin](https://linkedin.com/in/marcoalmadaar) to know more about me.</div><br>
 
-You can also find me on [Linkedin](https://linkedin.com/in/marcoalmadaar) if you want to connect or learn more about me.
-  
-I am currently studying on @microverse to become a fullstack software developer.
+<div>Currently, I'm studying at @microverse to develop my Full-Stack Software Development skills further.</div><br>
 
-Thank you for visiting my profile!
+<div>Please note that I'm open to new job opportunities, so let's connect if you think we could work together.</div><br>
+
+<div>Thank you for visiting my profile, and please don't forget to star my repositories if you find them useful!</div><br>
+
+
+<div>Thank you for visiting my profile!</div><br>
   <hr>
-</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MarcoDDM&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoDDM&show_icons=true&theme=transparent)
