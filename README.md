@@ -32,9 +32,18 @@ I am always eager to learn and grow, and I'm open to freelance or job opportunit
 <p>💬<b>My Linkedin: </b><a href="https://www.linkedin.com/in/marcoalmadaar">LinkedIn</a></p>
 
 <hr>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MarcoDDM&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarcoDDM&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoDDM&show_icons=true&theme=transparent)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoDDM&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html)](https://github.com/MarcoDDM)
+<div style="display:flex; justify-content:space-between">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoDDM&show_icons=true&theme=transparent" alt="MarcoDDM's GitHub stats" title="MarcoDDM's GitHub stats" width="45%">
+  <a href="https://github.com/MarcoDDM">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoDDM&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" width="45%">
+  </a>
+</div>
+
 
 
