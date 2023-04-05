@@ -18,11 +18,13 @@ I am always eager to learn and grow, and I'm open to freelance or job opportunit
 <div>Please note that I'm open to new job opportunities, so let's connect if you think we could work together.</div><br>
 <div>Thank you for visiting my profile, and please don't forget to star my repositories if you find them useful!</div><br>
 <div>Thank you for visiting my profile!</div><br>
+
+<p>🏠<b>Location</b>: Buenos Aires</p>
+<p>🌐<b>My portfolio: </b><a href="http://www.marcoalmada.online">marcoalmada.online</a></p>
+<p>✉<b>My email: </b><b>marantal2015@gmail.com</b></p>
+<p>💬<b>My Linkedin: </b><a href="https://www.linkedin.com/in/marcoalmadaar">LinkedIn</a></p>
+
 <hr>
-
-
-
-
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MarcoDDM&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
