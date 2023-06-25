@@ -20,8 +20,8 @@ I am always eager to learn and grow, and I'm open to freelance or job opportunit
 
 <b>Some things about me:</b>
 * 🌍 How to reach me [LinkedIn](https://www.linkedin.com/in/marcoalmadaar/)
-* 🧠 I'm currently working on projects in JavaScript, React, and Python, as well as contributing to open source projects.
-* 🤝 I'm open to collaborating on JavaScript, React, and Python projects.
+* 🧠 I'm currently working on projects in JavaScript, React, and Ruby, as well as contributing to open source projects.
+* 🤝 I'm open to collaborating on JavaScript, React, and Ruby projects.
 * 🏋️ One of my hobbies is going to the gym.
 
 
