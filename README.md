@@ -38,6 +38,8 @@ I am always eager to learn and grow, and I'm open to freelance or job opportunit
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/MarcoDDM/github-profile-trophy)
+
 <div style="display:flex; justify-content:space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoDDM&show_icons=true&theme=transparent" alt="MarcoDDM's GitHub stats" title="MarcoDDM's GitHub stats" width="45%">
   <a href="https://github.com/MarcoDDM">
