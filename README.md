@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/MarcoDDM?logo=github&style=for-the-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+Latin&size=15&duration=6000&pause=1000&width=435&lines=%22The+obstacle+is+the+way.%22;+%22You+have+power+over+your+mind+-+not+outside+events.+Realize+this%2C+and+you+will+find+strength.%22;+%22The+happiness+of+your+life+depends+upon+the+quality+of+your+thoughts.%22)](https://git.io/typing-svg)
 
 
-<div>Hello! I'm <b>Marco Almada</b>, a Full-Stack Software Developer from Buenos Aires, with expertise in the MERN stack. I'm passionate about leveraging technology to create innovative solutions to solve problems.</div><br>
+<div>Hello! I'm <b>Marco Almada</b>, a Full-Stack Software Developer from Buenos Aires, with expertise in the MERN stack and working with RoR. I'm passionate about leveraging technology to create innovative solutions to solve problems.</div><br>
 <div>My portfolio <a href="http://marcoddm.github.io">marcoddm.github.io</a> showcases a range of projects that I've worked on, including paid assignments and others from a current bootcamp program. Each pinned project has a detailed description that highlights the project's key features and the technologies utilized to build it.</div><br>
 I am always eager to learn and grow, and I'm open to freelance or job opportunities. So, if you have a project that requires my skills, feel free to connect with me at <b>marantal2015@gmail.com</b>. You can also find me on <a href="https://www.linkedin.com/in/marcoalmadaar">LinkedIn</a> to know more about me. Currently, I'm studying at @microverse to develop my Full-Stack Software Development skills further.</div><br>
 
